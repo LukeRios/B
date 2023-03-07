@@ -1,0 +1,23 @@
+body {
+    background-color: #d2ecdf;
+}
+
+h1 {
+    color: #d70c0c;
+    font-family: sans-serif;
+}
+
+
+p {
+    color: #4235a4;
+    font-family: sans-serif;
+}
+
+a {
+    color: #1b7536;
+    font-size: 100%;
+}
+
+li {
+    color: #1b7536;
+}
